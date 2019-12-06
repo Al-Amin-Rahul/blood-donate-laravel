@@ -1,0 +1,27 @@
+.footer-sec h5{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.footer-sec{
+    text-align: center;
+    height: 120px;
+    background: #212529;
+    color: black;
+}
+.post-info p{
+    border-bottom: 1px solid gray;
+    color: #0b2e13;
+}
+.post-item{
+    box-sizing: border-box;
+    box-shadow: 0px 0 20px 0 rgba(0, 0, 0, 0.3);
+}
+.donor-info p{
+    border-bottom: 1px solid gray;
+    color: #0b2e13;
+}
+.donor-item{
+    box-sizing: border-box;
+    box-shadow: 0px 0 20px 0 rgba(0, 0, 0, 0.3);
+}
